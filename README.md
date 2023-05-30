@@ -1,11 +1,18 @@
 
 ### About me
 
-I am a post-doctoral researcher at the *Research Center on Inequality
-and Social Policy* (University of Bremen, Germany). I am interested in
-policy analysis using computational methods and social network analysis.
+I am a post-doctoral researcher in an interdisciplinary research project
+spanning political science and natural language processing at the
+*Research Center on Inequality and Social Policy* (University of Bremen,
+Germany). My research interest is in computational policy analysis using
+methods of social network analysis and NLP.
 
-*From summer 2023 I am going to leave the SOCIUM and will (if at all)
-only sporadically maintain my repositories.*
+*\[July 2023\]* After five years of dedicated academic research I have
+made the decision to transition beyond academia. I look forward to
+applying my expertise in data-driven methodologies and computational
+social science outside of traditional research settings.
+
+*During this period of transition I may not be able to actively maintain
+or update my repositories.*
 
 ![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->

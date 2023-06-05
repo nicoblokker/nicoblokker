@@ -2,10 +2,10 @@
 ### About me
 
 I am a post-doctoral researcher in an interdisciplinary research project
-spanning political science and natural language processing at the
+spanning political science and computational linguistics at the
 *Research Center on Inequality and Social Policy* (University of Bremen,
 Germany). My research interest is in computational policy analysis using
-methods of social network analysis and NLP.
+methods of social network analysis and natural language processing.
 
 *\[July 2023\]* After five years of dedicated academic research I have
 made the decision to transition beyond academia. I look forward to
